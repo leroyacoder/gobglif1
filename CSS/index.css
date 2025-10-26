@@ -17,19 +17,20 @@ background-color: #171310;
     align-items: center;
     margin-left: 0px;
     margin-top: -10px;
-    background-size: 100%
+    background-size: 100%;
+    object-fit: cover;
 }
 
 .text1 {
-font-family: "PT Root UI_Medium" ;
-width: 289px;
-height: 79px;
-line-height: 120%;
-margin-left: 880px;
-margin-right: 303px;
-margin-top: -505px;
-font-size: 22px;
-color: #B0B0B0;
+    font-family: "PT Root UI_Medium" ;
+    width: 289px;
+    height: 79px;
+    line-height: 120%;
+    margin-left: 880px;
+    margin-right: 303px;
+    margin-top: -505px;
+    font-size: 22px;
+    color: #B0B0B0;
 }
 
 .block2 {
@@ -39,12 +40,15 @@ color: #B0B0B0;
 }
 
 .info_img1 {
- width: 100%;
-    height: 1556px;
+    width: 100%;
+    height: 1390px;
     align-items: center;
-    margin-left: 0px;
-    margin-top: 0%;
-    background-size: 100%
+    background-size: 100%;
+    margin-top: 0px;
+    object-fit: cover;
 }
 
+.elements_for_info_img1 {
+    margin-top: -5px;
 
+}
