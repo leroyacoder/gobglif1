@@ -15,4 +15,10 @@ overflow-x: hidden;
     height: 1151px;
     align-items: center;
     margin-left: 0px;
+    margin-top: -10px;
+}
+
+.logo_top {
+    margin-top: 100px;
+
 }
