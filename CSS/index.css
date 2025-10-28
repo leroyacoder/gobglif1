@@ -319,7 +319,7 @@ background-color: #171310;
 }
 
 .podval {width: 100%;
-    height: 1200px;
+    height: 1280px;
     align-items: center; 
     margin-left: 0px;
     margin-top: 90px;
@@ -328,6 +328,29 @@ background-color: #171310;
     object-fit: cover;
  }
 
+ .textdecor4 {
+    font-family: "PT Root UI_Medium" ;
+    width: 455px;
+    height: 495px;
+    line-height: 120%;
+    margin-left: 180px;
+    margin-right: 303px;
+    margin-top: -980px;
+    font-size: 24px;
+    color: #2B2B2B;
+}
+
+.textdecor5 {
+    font-family: "PT Root UI_Medium" ;
+    width: 477px;
+    height: 155px;
+    line-height: 120%;
+    margin-left: 890px;
+    margin-right: 303px;
+    margin-top: 30px;
+    font-size: 24px;
+    color: #2B2B2B;
+}
 
 /* * {
 transform: translateY(50px);
